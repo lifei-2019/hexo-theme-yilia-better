@@ -15,7 +15,7 @@ hexo-theme-yilia-better
 - **本项目源于：[https://github.com/litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia "https://github.com/litten/hexo-theme-yilia")。向作者表示深深的敬意。**
 
 [yilia-better](https://github.com/lifei-2019/hexo-theme-yilia-better) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://zhousiwei.gitee.io) 查看效果。
+崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://lifei-2019.github.io/) 查看效果。
 
 如果想体验手机浏览效果，可以扫一下二维码：
 
